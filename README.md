@@ -1,4 +1,4 @@
-PEATIO v2.0 - An open-source crypto currency exchange
+DeMex v1.0 - An open-source crypto currency exchange
 ====================================================
 https://blog.algobasket.com/2019/05/build-your-own-cryptocurrency-exchange.html
 
