@@ -2,7 +2,7 @@ DeMex v1.0 - An open-source crypto currency exchange
 ====================================================
 https://blog.algobasket.com/2019/05/build-your-own-cryptocurrency-exchange.html
 
-Peatio is a free and open-source crypto currency exchange implementation with the Rails framework and other cutting-edge technology.
+DeMex is a free and open-source crypto currency exchange implementation with the Rails framework and other cutting-edge technology.
 
 
 ### Mission
